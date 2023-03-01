@@ -36,7 +36,7 @@ COVID-19 사태 이후 대부분의 식당, 카페 등에서 간단한 계산업
 
 ## 🎞️ 실행화면
 
-## ✔️ 참고사항
+## ✔️ 참고 레포지토리
 - [MySQL-Apache-UnrealEngine, 시스템DB](https://github.com/dahasoim/MySQL-Apache-UnrealEngine) - 이민하
 - [MetaHumanFaceAnim](https://github.com/comungsul/operations) - 안소라, 임혜진
 
