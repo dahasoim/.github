@@ -44,8 +44,8 @@ COVID-19 사태 이후 대부분의 식당, 카페 등에서 간단한 계산업
 ## 💪 역할
 
 | 안소라 | 이민하 | 임혜진 | 정다은 |
-|:---:|:---------:|:---:|:---------:|
-|   |   |   |   | 
+|:---------|:---------|:---------|:---------|
+| * 프로그램 배경 구매 및 테스트<br>* 음식,재료 mesh 구매 및 테스트<br>* 디지털휴먼 의상 asset 제작<br>* 일부 Face Animation 세부 수정| * 프로그램 전체 시스템 설계 및 총괄<br>* DB설계 및 Web server 구축<br>* GPT3, STT 설계 및 데이터 처리<br>* GPT3 AI Script ver.2 작성 및 디버깅<br>* 시스템 UI설계 | * STT, GPT3 BaseLine 설계 및 테스트<br>* Face/Body Animation 제작/수정<br>* UI Animation Sequence 제작<br>* 시스템 내 Animation 적용 | * [MHC](https://www.unrealengine.com/ko/metahuman)툴을 통한 디지털휴먼 생성<br>* GPT3 AI Script ver.1 작성<br>* 음식,재료 mesh 구매 및 테스트 | 
 | [anthfk](https://github.com/anthfk) | [mina-401](https://github.com/orgs/dahasoim/people/mina-401) | [imagine99](https://github.com/imagine99) | [dan1792](https://github.com/dan1792) |
 
 <br>
