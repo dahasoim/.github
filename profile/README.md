@@ -50,7 +50,7 @@ COVID-19 사태 이후 대부분의 식당, 카페 등에서 간단한 계산업
 
 <br>
 
-## ✔️ 레포지토리
+## ✔️ 레포지토리 및 참고사항
 * Public
   - [MySQL-Apache-UnrealEngine, 시스템DB](https://github.com/dahasoim/MySQL-Apache-UnrealEngine) - 이민하
   - [MetahumanAnim, 디지털휴먼 애니메이션](https://github.com/dahasoim/metahuman_Anim) - 안소라, 임혜진
@@ -60,3 +60,6 @@ COVID-19 사태 이후 대부분의 식당, 카페 등에서 간단한 계산업
   - [Clothes, 앞치마/모자 assetes](https://github.com/dahasoim/clothes) - 안소라
   - [Food3D, 음식/식재료 assetes](https://github.com/dahasoim/food_3D) - 안소라, 임혜진, 정다은
   - [BackGround, 프로그램 배경](https://github.com/dahasoim/Background) - 안소라
+
+* [시연영상]()
+* [팀 Notion]()
