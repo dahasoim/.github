@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/57169754/223782526-6d51b3bc-3971-495b-84b7-a937336229cf.png)
+![image](https://user-images.githubusercontent.com/57169754/223782788-3bed867f-cae2-4555-b816-218b4ed29540.png)
 # 🤔어떤 프로그램인가요?
 
 샌드위치 주문을 위한 디지털휴먼 키오스크 프로그램입니다.
