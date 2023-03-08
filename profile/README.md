@@ -24,22 +24,39 @@ COVID-19 사태 이후 대부분의 식당, 카페 등에서 간단한 계산업
 
 <br>
 
-## 💪 팀 역할
-안소라
-이민하
-임혜진
-정다은
 ## 🗺️ 전체 시스템 구성도
 ![image](https://user-images.githubusercontent.com/57169754/221845562-15f9cacc-9da8-4c33-9f09-baf08c7a5b33.png)
 
-## 핵심기능(지울까 말까,,)
+<br>
 
 ## 🎞️ 실행화면
 
-## ✔️ 참고 레포지토리
-- [MySQL-Apache-UnrealEngine, 시스템DB](https://github.com/dahasoim/MySQL-Apache-UnrealEngine) - 이민하
-- [MetaHumanFaceAnim](https://github.com/comungsul/operations) - 안소라, 임혜진
+<br>
 
 ## 🔧 사용도구
 
+<br>
+
 ## 📜 참고자료
+
+<br>
+
+## 💪 역할
+
+| 안소라 | 이민하 | 임혜진 | 정다은 |
+|:---:|:---------:|:---:|:---------:|
+|   |   |   |   | 
+| [anthfk](https://github.com/anthfk) | [mina-401](https://github.com/orgs/dahasoim/people/mina-401) | [imagine99](https://github.com/imagine99) | [dan1792](https://github.com/dan1792) |
+
+<br>
+
+## ✔️ 레포지토리
+* Public
+  - [MySQL-Apache-UnrealEngine, 시스템DB](https://github.com/dahasoim/MySQL-Apache-UnrealEngine) - 이민하
+  - [MetahumanAnim, 디지털휴먼 애니메이션](https://github.com/dahasoim/metahuman_Anim) - 안소라, 임혜진
+  - [GPT3-STT-UE4, 음성인식 및 데이터가공](https://github.com/dahasoim/GPT3-STT-UE4) - 이민하, 임혜진, 정다은
+  - [GPT3-STT-UE4 Demo, 위 Repository의 BaseLine](https://github.com/dahasoim/GPT3-STT-UE4_Demo) - 임혜진
+* Private
+  - [Clothes, 앞치마/모자 assetes](https://github.com/dahasoim/clothes) - 안소라
+  - [Food3D, 음식/식재료 assetes](https://github.com/dahasoim/food_3D) - 안소라, 임혜진, 정다은
+  - [BackGround, 프로그램 배경](https://github.com/dahasoim/Background) - 안소라
