@@ -30,7 +30,7 @@ COVID-19 사태 이후 대부분의 식당, 카페 등에서 간단한 계산업
 <br>
 
 ## 🎞️ 실행화면
-[![youtube link](https://img.youtu.be/IG65KLyU3Nw/1.jpg)](https://youtu.be/IG65KLyU3Nw)
+[![youtube link](http://img.youtu.be/IG65KLyU3Nw/0.jpg)](https://youtu.be/IG65KLyU3Nw)
 <br>
 
 ## 🔧 사용도구
