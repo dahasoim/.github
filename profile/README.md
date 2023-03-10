@@ -29,7 +29,7 @@ COVID-19 사태 이후 대부분의 식당, 카페 등에서 간단한 계산업
 
 <br>
 
-## 🎞️ 실행화면
+## 🎞️ 시연영상(클릭 시 이동)
 [![link to Youtube](https://user-images.githubusercontent.com/60374155/224118471-24f4a5d8-c170-47b3-a6e9-019b5aae953b.png)](https://youtu.be/IG65KLyU3Nw)
 <br>
 
@@ -50,7 +50,7 @@ COVID-19 사태 이후 대부분의 식당, 카페 등에서 간단한 계산업
 
 <br>
 
-## ✔️ 레포지토리 및 참고사항
+## ✔️ 레포지토리
 * Public
   - [MySQL-Apache-UnrealEngine, 시스템DB](https://github.com/dahasoim/MySQL-Apache-UnrealEngine) - 이민하
   - [MetahumanAnim, 디지털휴먼 애니메이션](https://github.com/dahasoim/metahuman_Anim) - 안소라, 임혜진
@@ -61,5 +61,4 @@ COVID-19 사태 이후 대부분의 식당, 카페 등에서 간단한 계산업
   - [Food3D, 음식/식재료 assetes](https://github.com/dahasoim/food_3D) - 안소라, 임혜진, 정다은
   - [BackGround, 프로그램 배경](https://github.com/dahasoim/Background) - 안소라
 
-* [시연영상]()
-* [팀 Notion]()
+* [팀 Notion, 관련 논문 및 수행보고서 기록.](https://jjlee-tuwork.notion.site/07905a7b62b24c838c6d1dd097ae98a1)
