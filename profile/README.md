@@ -34,11 +34,41 @@ COVID-19 사태 이후 대부분의 식당, 카페 등에서 간단한 계산업
 <br>
 
 ## 🔧 사용도구
+### 개발 도구
+| 사용 목적 | 도구 이름 |
+|:---------|:---------|
+|샌드위치 주문을 위한 메타휴먼 키오스크 프로그램| UnrealEngine4 |
+| 디지털 휴먼  |Maya, NvidiaOmniverse(Audio2Face) |
 
+
+Maya
+NvidiaOmniverse(Audio2Face)
+### 소요재료
+| 목록 | 내용 |
+|:---------|:---------|
+|Dialogue Builder [UnrealEngine Market Place] | 대화 노드에 맞춰 오디오재생 및 애니메이션 플레이를 가능하게 하는 플러그인 |
+|Google Speech Kit [UnrealEngine Market Place] | Google Cloud에서 제공하는 STT/TTS API를 UE내 Blueprint에서 쉽게 활용할 수 있도록 하는 플러그인 |
+|MCO Mocap Basics [UnrealEngine Market Place] | Body Animation 무료 소스 모음 |
+|VaRest [UnrealEngine Market Place] | 웹서버 통신을 위한 http method를 사용할 수 있도록 하는 플러그인 |
+|fastfood resturant map [UnrealEngine Market Place] | 샌드위치 음식점 배경 맵 |
+|GPT3 [OpenAI] | Open AI에서 제공하는 GPT3 API를 UE내 사용할 수 있도록 하는 플러그인 |
 <br>
 
 ## 📜 참고자료
-
+| 종류 | 참고문헌 |
+|:---------|:---------|
+| 웹사이트 | [GPT3 플러그인 다운로드/환경설정 및 UE 적용 방법](https://www.youtube.com/watch?v=i-Aw32rgM-w) |
+| 웹사이트 | [UE dialogue builder 튜토리얼](https://www.youtube.com/watch?v=4w8NpR1wgOU) |
+| 웹사이트 | [UE Varest와 mysql 연동 방법, PHP예시](https://unrealengine.tistory.com/159) |
+| 웹사이트 | [Audio2Face, Maya를 통해 face Animation 제작방법](https://www.youtube.com/watch?v=AjpuBW2RXHI) |
+| 웹사이트 | [Maya 내 face Animation 상세 수정 방법](https://www.youtube.com/watch?v=E8DwHkkjgOA) |
+| 웹사이트 | [UE 3인칭 마네킹 캐릭터에 MetaHuman Animation retartgetting 방법](https://docs.metahuman.unrealengine.com/ko/retargeting-animations-to-a-metahuman-in-unreal-engine-4/ ) |
+| 웹사이트 | [UE Control Rig을 이용하여 Animation 생성 및 수정 방법](https://www.youtube.com/watch?v=2k2gNc_7CT0) |
+| 웹사이트 | [UE4 blueprint 기초 사용법, 전반적인 도구 설명](https://www.youtube.com/playlist?list=PLi6SIeAlP8AVvHzAVv5ZGApb4dVva40dy) |
+| 웹사이트 | [GPT3와 Google Speech Kit 적용 프로젝트 예시, 블루프린트 설계도 제공](https://www.youtube.com/watch?v=wtv_043sIrg) |
+| 웹사이트 | [UE4 사용법 유료 강의](https://www.inflearn.com/course/%EC%96%B8%EB%A6%AC%EC%96%BC-%EC%97%94%EC%A7%844-%EC%9E%85%EB%AC%B8/dashboard) |
+| 서적 | 이득우의 언리얼 C++ 게임 개발의 정석 |
+| 서적 | (C++로 시작하는) 언리얼 4 게임 프로그래밍 |
 <br>
 
 ## 💪 역할
