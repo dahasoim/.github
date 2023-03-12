@@ -25,7 +25,9 @@ COVID-19 사태 이후 대부분의 식당, 카페 등에서 간단한 계산업
 <br>
 
 ## 🗺️ 전체 시스템 구성도
-![image](https://user-images.githubusercontent.com/57169754/221845562-15f9cacc-9da8-4c33-9f09-baf08c7a5b33.png)
+![image](https://user-images.githubusercontent.com/60374155/224571489-7dbe3c33-c7d1-4c83-9bc4-000f286b1813.png)
+![image](https://user-images.githubusercontent.com/60374155/224571649-3aeda4b8-c7e9-4f3a-a17f-9a951045b0ea.png)
+
 
 <br>
 
