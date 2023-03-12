@@ -38,7 +38,7 @@ COVID-19 사태 이후 대부분의 식당, 카페 등에서 간단한 계산업
 | 사용 목적 | 도구 이름 |
 |:---------|:---------|
 |샌드위치 주문을 위한 메타휴먼 키오스크 프로그램| UnrealEngine4 |
-| 디지털 휴먼  |Epic games Metahuman Creator Maya, NvidiaOmniverse(Audio2Face) |
+| 디지털 휴먼  |Epic games Metahuman Creator,Bridge, Maya, NvidiaOmniverse(Audio2Face) |
 
 ### 사용 라이브러리 및 재료
 | 목록 | 내용 |
