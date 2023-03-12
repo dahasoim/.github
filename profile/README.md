@@ -82,7 +82,7 @@ COVID-19 사태 이후 대부분의 식당, 카페 등에서 간단한 계산업
   - [MySQL-Apache-UnrealEngine, 시스템DB](https://github.com/dahasoim/MySQL-Apache-UnrealEngine) - 이민하
   - [MetahumanAnim, 디지털휴먼 애니메이션](https://github.com/dahasoim/metahuman_Anim) - 안소라, 임혜진
   - [GPT3-STT-UE4, 음성인식 및 데이터가공](https://github.com/dahasoim/GPT3-STT-UE4) - 이민하, 임혜진, 정다은
-  - [GPT3-STT-UE4 Demo, 위 Repository의 BaseLine](https://github.com/dahasoim/GPT3-STT-UE4_Demo) - 임혜진
+  - [GPT3-STT-UE4 Demo](https://github.com/dahasoim/GPT3-STT-UE4_Demo) - 임혜진
 * Private
   - [Clothes, 앞치마/모자 assetes](https://github.com/dahasoim/clothes) - 안소라
   - [Food3D, 음식/식재료 assetes](https://github.com/dahasoim/food_3D) - 안소라, 임혜진, 정다은
