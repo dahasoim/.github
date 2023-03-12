@@ -29,7 +29,7 @@ COVID-19 사태 이후 대부분의 식당, 카페 등에서 간단한 계산업
 
 <br>
 
-## 🎞️ 시연영상(클릭 시 이동)
+## 🎞️ 시연영상(클릭 시 유투브 이동)
 [![link to Youtube](https://user-images.githubusercontent.com/60374155/224118471-24f4a5d8-c170-47b3-a6e9-019b5aae953b.png)](https://youtu.be/IG65KLyU3Nw)
 <br>
 
@@ -60,5 +60,3 @@ COVID-19 사태 이후 대부분의 식당, 카페 등에서 간단한 계산업
   - [Clothes, 앞치마/모자 assetes](https://github.com/dahasoim/clothes) - 안소라
   - [Food3D, 음식/식재료 assetes](https://github.com/dahasoim/food_3D) - 안소라, 임혜진, 정다은
   - [BackGround, 프로그램 배경](https://github.com/dahasoim/Background) - 안소라
-
-* [팀 Notion, 관련 논문 및 수행보고서 기록.](https://jjlee-tuwork.notion.site/07905a7b62b24c838c6d1dd097ae98a1)
