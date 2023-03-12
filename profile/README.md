@@ -40,10 +40,7 @@ COVID-19 사태 이후 대부분의 식당, 카페 등에서 간단한 계산업
 |샌드위치 주문을 위한 메타휴먼 키오스크 프로그램| UnrealEngine4 |
 | 디지털 휴먼  |Maya, NvidiaOmniverse(Audio2Face) |
 
-
-Maya
-NvidiaOmniverse(Audio2Face)
-### 소요재료
+### 사용 라이브러리 및 재료
 | 목록 | 내용 |
 |:---------|:---------|
 |Dialogue Builder [UnrealEngine Market Place] | 대화 노드에 맞춰 오디오재생 및 애니메이션 플레이를 가능하게 하는 플러그인 |
